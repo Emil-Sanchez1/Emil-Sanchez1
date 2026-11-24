@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emil Sanchez</h1>
-<h3 align="center">A passionate Data Analyst Junior</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 - 💬 Ask me about **SQL, Power BI, Looker Studio and Python**
 
